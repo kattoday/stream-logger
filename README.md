@@ -1,6 +1,6 @@
 # 🌀 Stream Logger Lambda
 
-This AWS Lambda function listens to DynamoDB Streams and logs every change (insert, update, delete) for real-time event tracking. Designed for projects like **GoalForge**, it helps monitor football-related events stored in DynamoDB.
+This AWS Lambda function listens to DynamoDB Streams and logs every change (insert, update, delete) for real-time event tracking. Designed for projects that helps monitor football-related events stored in DynamoDB.
 
 ---
 
